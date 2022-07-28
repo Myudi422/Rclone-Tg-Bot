@@ -13,26 +13,6 @@
       "description": "Setting this to ANYTHING will enable Webhooks when in env mode",
       "value": "ANYTHING"
     },
-    "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
-    },
-    "TG_BOT_TOKEN": {
-      "description": "Get this value from @BotFather by Making New Bot and Paste the API token.",
-      "value": ""
-    },
-    "AUTH_CHANNEL": {
-      "description": "Should be an integer. The BOT API ID of the Telegram Group, Where the Bot should work., Put Group ID. Multiple ID separated by Single Space",
-      "value": ""
-    },
-    "OWNER_ID": {
-      "description": "Should be an integer. ID of owner of bot. Get it by sending /info to @MissRose_Bot",
-      "value": ""
-    }
   },
   "stack": "container"
 }
